@@ -1,2 +1,3 @@
-# MNIST_Classification_using_ANN
-Hand written digit classification using ANN
+# MNIST_Classification
+>>> Hand written digit classification using ANN
+>>> Hand written digit classification using CNN
